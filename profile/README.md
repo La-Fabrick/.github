@@ -1,2 +1,2 @@
 # La Fabrick
-Organisation github officield de [La Fabrick](https://la-fabrick.eu/) !
+Organisation github officiel de [La Fabrick](https://la-fabrick.eu/) !
